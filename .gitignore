@@ -161,4 +161,3 @@ cython_debug/
 
 tests/
 img_cropped/
-brain_tumor_dataset/
